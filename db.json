@@ -53,18 +53,18 @@
       "nome": "Refrigerantes"
     }
   ],
-  "rotas": [
+  "routers": [
     {
-      "id": 101,
-      "nome": "Rota 101"
+      "idShipment": 101,
+      "codeRoute": "Rota 101"
     },
     {
-      "id": 102,
-      "nome": "Rota 102"
+      "idShipment": 102,
+      "codeRoute": "Rota 102"
     },
     {
-      "id": 103,
-      "nome": "Rota 103"
+      "idShipment": 103,
+      "codeRoute": "Rota 103"
     }
   ]
 }
