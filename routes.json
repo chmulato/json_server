@@ -1,0 +1,4 @@
+{
+    "/distributionCenters": "/distributionCenters",
+    "/distributionCenters/:id": "/distributionCenters/:id"
+}
