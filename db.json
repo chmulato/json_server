@@ -66,5 +66,13 @@
       "id": 103,
       "name": "Rota 103"
     }
+  ],
+  "shipments": [
+    {
+      "id": 101,
+      "cdsShipmentVendor": "SHI000000675",
+      "cdDistributionCenter": "101",
+      "timestamp": "2023-01-09"
+    }
   ]
 }

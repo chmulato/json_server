@@ -1,4 +1,6 @@
 {
     "/distributionCenters": "/distributionCenters",
-    "/distributionCenters/:id": "/distributionCenters/:id"
+    "/distributionCenters/:id": "/distributionCenters/:id",
+    "/shipments": "/shipments",
+    "/shipments/:id": "/shipments/:id"
 }
