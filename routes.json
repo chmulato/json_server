@@ -2,5 +2,6 @@
     "/distributionCenters": "/distributionCenters",
     "/distributionCenters/:id": "/distributionCenters/:id",
     "/shipments": "/shipments",
-    "/shipments/:id": "/shipments/:id"
+    "/shipments/:id": "/shipments/:id",
+    "/:shipmentsContent/:id/stop": "/:shipmentsContent/:id"
 }
