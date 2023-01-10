@@ -3,5 +3,5 @@
     "/distributionCenters/:id": "/distributionCenters/:id",
     "/shipments": "/shipments",
     "/shipments/:id": "/shipments/:id",
-    "/:shipmentsContent/:id/stop": "/:shipmentsContent/:id"
+    "/:contentShipments/:id/stop": "/:contentShipments/:id"
 }

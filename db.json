@@ -21,10 +21,22 @@
       "timestamp": "2023-01-09"
     }    
   ],
-  "shipmentsContent": [
+  "contentShipments": [
     {
       "id": 101,
-      "idShipment": 0,
+      "idShipment": 101,
+      "idBranch": 0,
+      "stopSequence": 0
+    },
+    {
+      "id": 102,
+      "idShipment": 102,
+      "idBranch": 0,
+      "stopSequence": 0
+    },
+    {
+      "id": 103,
+      "idShipment": 103,
       "idBranch": 0,
       "stopSequence": 0
     }
