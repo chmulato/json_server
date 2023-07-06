@@ -19,7 +19,7 @@
       "cdsShipmentVendor": "SHI000000675",
       "cdDistributionCenter": "101",
       "timestamp": "2023-01-09"
-    } ,
+    },
     {
       "id": 102,
       "cdsShipmentVendor": "SHI000000102",
@@ -37,7 +37,7 @@
       "cdsShipmentVendor": "SHI000000104",
       "cdDistributionCenter": "104",
       "timestamp": "2023-01-09"
-    }    
+    }
   ],
   "contentShipments": [
     {
@@ -58,27 +58,47 @@
       "idBranch": 0,
       "stopSequence": 0
     }
-  ], "invoiceNotifications": [
+  ],
+  "invoiceNotifications": [
     {
       "originBranchId": 3212,
       "destinationBranchId": 3002,
       "nfeAccessKey": "88888888",
       "inssuanceDate": "2023-05-01 14:00:00",
-      "eventDate": "2023-05-02 15:00:00"
+      "eventDate": "2023-05-02 15:00:00",
+      "id": 1
     },
     {
       "originBranchId": 3212,
       "destinationBranchId": 3010,
       "nfeAccessKey": "66666666",
       "inssuanceDate": "2023-06-01 14:00:00",
-      "eventDate": "2023-06-02 15:00:00"
+      "eventDate": "2023-06-02 15:00:00",
+      "id": 2
     },
     {
       "originBranchId": 3212,
       "destinationBranchId": 3011,
       "nfeAccessKey": "444444444",
       "inssuanceDate": "2023-07-01 14:00:00",
-      "eventDate": "2023-07-02 15:00:00"
+      "eventDate": "2023-07-02 15:00:00",
+      "id": 3
+    },
+    {
+      "originBranchId": 3222,
+      "destinationBranchId": 3001,
+      "nfeAccessKey": "444444444",
+      "inssuanceDate": "2023-07-01 14:00:00",
+      "eventDate": "2023-07-02 15:00:00",
+      "id": 4
+    },
+    {
+      "originBranchId": 3222,
+      "destinationBranchId": 3001,
+      "nfeAccessKey": "444444444",
+      "inssuanceDate": "2023-07-01 14:00:00",
+      "eventDate": "2023-07-02 15:00:00",
+      "id": 5
     }
   ]
 }
